@@ -1,6 +1,6 @@
 # 🌟 ML-Capsule: Hands-on ML from Basic to Advance 🌟
 
-Welcome to **ML-Capsule**! This repository is a comprehensive collection of machine learning projects and resources, ranging from beginner to advanced levels. It covers a variety of topics, from basic machine learning concepts to deep learning, natural language processing, and much more.
+Welcome to **ML-Capsule**!!! This repository is a comprehensive collection of machine learning projects and resources, ranging from beginner to advanced levels. It covers a variety of topics, from basic machine learning concepts to deep learning, natural language processing, and much more.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-ML-Capsule" alt="Welcome to ML Capsule"/>
